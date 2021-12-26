@@ -45,7 +45,7 @@ print(x)
 ```
 ## Output:
 OUTPUT 1:
-![lu decomposition](gcdoutput.png)
+![lu decomposition](output1.png)
 OUTPUT 2:
 ![lu decompostion](output2.png)
 
