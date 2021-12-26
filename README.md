@@ -44,9 +44,11 @@ x=lu_solve((lu,piv),b)
 print(x)
 ```
 ## Output:
-OUTPUT 1:
+### OUTPUT 1:
+
 ![lu decomposition](output1.png)
-OUTPUT 2:
+### OUTPUT 2:
+
 ![lu decompostion](output2.png)
 
 ## Result:
